@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swasti Prada Patra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swasti238&label=Profile%20views&color=0e75b6&style=flat" alt="swasti238" /> </p>
+
 
 - 📫 How to reach me **swastipradapatra18@gmail.com**
 
